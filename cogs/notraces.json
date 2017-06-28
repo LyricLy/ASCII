@@ -1,6 +1,6 @@
 {
     "title": "No traces",
-    "description": "This cog lets you toggle a notraces mode that will autodelete **all** your messages after a certain amount of time.",
+    "description": "This cog lets you toggle a no-traces mode that will autodelete **all** your messages after a certain amount of time.\nThe two commands that come with this cog are\n- `notrace [seconds to delete]` to enable it and\n- `trace` to disable it.\n\n[(Check the Source Code)](https://gist.githubusercontent.com/Bluscream/614cbb8b07db2fd05b71a473e3c2e90c)",
     "author": "Bluscream#2597",
     "link": "https://gist.githubusercontent.com/Bluscream/614cbb8b07db2fd05b71a473e3c2e90c/raw/792c940a4b73d343c548a2b72c06fbafa433418b/notraces.py"
 }
