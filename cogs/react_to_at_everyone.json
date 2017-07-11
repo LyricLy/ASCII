@@ -1,0 +1,6 @@
+{
+    "title": "React to @everyone",
+    "description": "When enabled, automatically reacts to @everyone pings with the given text (default is 'first'). Toggle with `[p]everyonereact`. Change what the react message should be with`[p]reactword <txt>`. Will not work in channels where you don't have add reaction perms.",
+    "author": "appu1232",
+    "link": "https://gist.githubusercontent.com/appu1232/40bba2cc5783ca9676707aa1c00a391a/raw/1a6d3cd1885a6e14624b29cbe04d0347a27232a9/everyone_react.py"
+}
