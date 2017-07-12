@@ -2,5 +2,5 @@
 	    "title": "Anti Move",
 	    "description": "A simple antimove mode that lets you stay in your voice channel regardless who moves you around.\nYou can toggle the antimove\n- `antimove/am`\n\n[(Check the Source Code)](https://github.com/Bluscream/Discord-Selfbot-Cogs/blob/master/antimove.py)",
 	    "author": "Bluscream#2597",
-	    "link": "https://raw.githubusercontent.com/Bluscream/Discord-Selfbot-Cogs/master/antimove.py"
+	    "link": "https://gist.githubusercontent.com/appu1232/fc61b3a81bd8d54adb17a88099323e65/raw/541a30706bc2f0f324405961a262d7eeec40f1df/antimove"
 	}
