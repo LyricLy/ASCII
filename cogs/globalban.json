@@ -1,5 +1,5 @@
 {
-    "title": "Global Ban",
+    "title": "Global Ban (rewrite only)",
     "description": "This cog is highly dangerous and requires you to edit code to use.\nIt gives you the ability to ban a user from all servers that you have ban permissions on and also blocks that user locally.\n\n[(Check the Source Code)](https://github.com/Bluscream/Discord-Selfbot-Cogs/blob/master/globalban.py)",
     "author": "Bluscream#2597",
     "link": "https://raw.githubusercontent.com/Bluscream/Discord-Selfbot-Cogs/master/globalban.py"
