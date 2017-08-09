@@ -1,6 +1,12 @@
  {
-	    "title": "Anti Move (rewrite only)",
-	    "description": "A simple antimove mode that lets you stay in your voice channel regardless who moves you around.\nYou can toggle the antimove\n- `antimove/am`\n\n[(Check the Source Code)](https://github.com/Bluscream/Discord-Selfbot-Cogs/blob/master/antimove.py)",
-	    "author": "Bluscream#2597",
-	    "link": "https://raw.githubusercontent.com/Bluscream/Discord-Selfbot-Cogs/master/antimove.py"
-	}
+	"title": "Anti Move (rewrite only)",
+	"description": "A simple antimove mode that lets you stay in your voice channel regardless who moves you around.\nYou can toggle the antimove\n- `antimove/am`\n\n[(Check the Source Code)](https://github.com/Bluscream/Discord-Selfbot-Cogs/blob/master/antimove.py)",
+	"author": "Bluscream#2597",
+	"authorid": 97138137679028224,
+	"link": "https://raw.githubusercontent.com/Bluscream/Discord-Selfbot-Cogs/master/antimove.py",
+	"dependencies": [],
+	"source": "https://github.com/Bluscream/Discord-Selfbot-Cogs/blob/master/antimove.py",
+	"support": "https://github.com/Bluscream/Discord-Selfbot-Cogs/issues/new",
+	"changelog": "https://github.com/Bluscream/Discord-Selfbot-Cogs/commits/master/antimove.py",
+	"version": 1
+}
