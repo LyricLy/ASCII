@@ -1,6 +1,6 @@
 {
 	"title": "Jokes (rewrite only)",
-	"description": "Funny jokesn at your fingertips.",
+	"description": "Funny jokes at your fingertips.",
 	"commands": {
 	  "joke": "Returns a random joke.",
 	  "cuck": "Returns a random Chuck Norris joke."
