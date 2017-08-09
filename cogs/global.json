@@ -2,7 +2,7 @@
     "title": "Global Ban (rewrite only)",
     "description": "This cog is highly dangerous and requires you to edit code to use.\nIt gives you the ability to ban a user from all servers that you have ban permissions on and also blocks that user locally.\n\n[(Check the Source Code)](https://github.com/Bluscream/Discord-Selfbot-Cogs/blob/master/global.py)",
     "author": "Bluscream#2597",
-    "authorid": 97138137679028224,
+    "authorid": "97138137679028224",
     "link": "https://raw.githubusercontent.com/Bluscream/Discord-Selfbot-Cogs/master/global.py",
     "dependencies": {
         "cogs/utils/checksblu.py": "https://raw.githubusercontent.com/Bluscream/Discord-Selfbot/rewrite/cogs/utils/checksblu.py",
