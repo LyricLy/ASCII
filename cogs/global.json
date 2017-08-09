@@ -9,6 +9,7 @@
         "cogs/utils/react.py": "https://raw.githubusercontent.com/Bluscream/Discord-Selfbot/rewrite/cogs/utils/react.py",
         "cogs/utils/api.py": "https://raw.githubusercontent.com/Bluscream/Discord-Selfbot/rewrite/cogs/utils/api.py"
     },
+    "beta": "https://raw.githubusercontent.com/Bluscream/Discord-Selfbot/rewrite/custom_cogs/global.py",
     "source": "https://github.com/Bluscream/Discord-Selfbot-Cogs/blob/master/global.py",
     "support": "https://github.com/Bluscream/Discord-Selfbot-Cogs/issues/new",
     "changelog": "https://github.com/Bluscream/Discord-Selfbot-Cogs/commits/master/global.py",
