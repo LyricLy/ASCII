@@ -1,6 +1,10 @@
 {
    "title": "Mass nickname changer (rewrite only)",
-   "description": "This cog lets you change/reset everyones nickname on a server at once.\nThe two commands that come with this cog are\n- `massnick/mn [new nickname]` to enable/reset it and\n- `resetnicks/rn` to remove all nicknames on the server.",
+   "description": "This cog lets you change/reset everyones nickname on a server at once.",
+	"commands": {
+	  "massnick|mn [onlineonly] [new nickname]": "Apply [new nickname] to the all users. [onlineonly] can be either true or false.",
+	  "resetnicks|rn": "Removes nicknames from all users on the current guild."
+	},
    "author": "Bluscream#2597",
    "authorid": 97138137679028224,
    "link": "https://raw.githubusercontent.com/Bluscream/Discord-Selfbot-Cogs/master/massnick.py",

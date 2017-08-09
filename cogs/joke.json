@@ -1,6 +1,10 @@
 {
 	"title": "Jokes (rewrite only)",
-	"description": "Funny jokesn at your fingertips.\n`joke` gets a random joke\n`chuck` gets a random Chuck Norris Joke",
+	"description": "Funny jokesn at your fingertips.",
+	"commands": {
+	  "joke": "Returns a random joke.",
+	  "cuck": "Returns a random Chuck Norris joke."
+	},
 	"author": "Bluscream#2597",
 	"authorid": 97138137679028224,
 	"link": "https://raw.githubusercontent.com/Bluscream/Discord-Selfbot-Cogs/master/joke.py",
