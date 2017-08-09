@@ -1,8 +1,8 @@
 {
 	"title": "Jokes (rewrite only)",
-	"description": "Funny jokesn at your fingertips.\n`joke` gets a random joke\n`chuck` gets a random Chuck Norris Joke\n\n[(Check the Source Code)](https://github.com/Bluscream/Discord-Selfbot-Cogs/blob/master/joke.py)",
+	"description": "Funny jokesn at your fingertips.\n`joke` gets a random joke\n`chuck` gets a random Chuck Norris Joke",
 	"author": "Bluscream#2597",
-	"authorid": "97138137679028224",
+	"authorid": 97138137679028224,
 	"link": "https://raw.githubusercontent.com/Bluscream/Discord-Selfbot-Cogs/master/joke.py",
 	"beta": {
 		"link": "https://raw.githubusercontent.com/Bluscream/Discord-Selfbot/rewrite/custom_cogs/joke.py"
