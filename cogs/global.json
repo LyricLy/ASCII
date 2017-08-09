@@ -2,7 +2,11 @@
     "title": "Global Ban (rewrite only)",
     "description": "This cog is highly dangerous and requires you to edit code to use.\nIt gives you the ability to ban a usr from all servers that you have ban permissions on and also blocks that user locally.",
 	"commands": {
-	  "mass|global": "ban|unban"
+	  "mass|global <ban|unban>": "Allows several actions to be applied on multiple guilds.",
+	  "profile|pro [uid]": "Shows profile information for the selected user.",
+	  "finduser|fu [user]": "Debug command. Checks if we could find the user you're searching for.",
+	  "block [uid]": "Blocks the user id you provide.",
+	  "unblock [uid]": "Unblocks the user id you provide."
 	},
     "author": "Bluscream#2597",
     "authorid": 97138137679028224,
