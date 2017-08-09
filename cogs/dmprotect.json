@@ -1,0 +1,14 @@
+{
+	"title": "DM Protection (rewrite only)",
+	"description": "A cog that blocks every user that advertises a discord server in the first private message of your conversation with him (Also marks the message as read).\nYou can toggle the dmprotect with\n- `dmprotect/dmp`\n\n[(Check the Source Code)](https://github.com/Bluscream/Discord-Selfbot-Cogs/blob/master/dmprotect.py)",
+	"author": "Bluscream#2597",
+	"authorid": 97138137679028224,
+	"link": "https://raw.githubusercontent.com/Bluscream/Discord-Selfbot-Cogs/master/dmprotect.py",
+	"beta": {
+	  "link": "https://raw.githubusercontent.com/Bluscream/Discord-Selfbot/rewrite/custom_cogs/dmprotect.py"
+    },
+	"source": "https://github.com/Bluscream/Discord-Selfbot-Cogs/blob/master/dmprotect.py",
+	"support": "https://github.com/Bluscream/Discord-Selfbot-Cogs/issues/new",
+	"changelog": "https://github.com/Bluscream/Discord-Selfbot-Cogs/commits/master/dmprotect.py",
+	"version": 1
+}
