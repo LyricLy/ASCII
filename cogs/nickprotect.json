@@ -1,6 +1,0 @@
- {
-	    "title": "Nickname Protection",
-	    "description": "This cog gives yourself the ability to kinda protect against annoying friends and abusive admins.\nWhile it's enabled it will automatically change your nickname back whenever someone (including you) tries to change it.\nThere is only one command in this cog\n- `nickprotect/np` to toggle the protection\n\n[(Check the Source Code)](https://github.com/Bluscream/Discord-Selfbot-Cogs/blob/master/nickprotect.py)",
-	    "author": "Bluscream#2597",
-	    "link": "https://raw.githubusercontent.com/Bluscream/Discord-Selfbot-Cogs/master/nickprotect.py"
-	}
