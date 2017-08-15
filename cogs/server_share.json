@@ -1,6 +1,0 @@
-{
-    "title": "Shared Server Checker",
-    "description": "Check how many friends have x number of servers in common. Also able to include specific servers if needed",
-    "author": "architdate",
-    "link": "https://gist.githubusercontent.com/appu1232/d50c5e6e49e73494663004af66f40a50/raw/801eb5ae23e01ace536c30f94394fd0ca959f275/server_share.py"
-}
