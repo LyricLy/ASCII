@@ -1,0 +1,6 @@
+{
+    "title": "AnonQuote",
+    "description": "A cog meant for use on the Nintendo Homebrew server. It makes quoting completely anonymous. You can use it with >noquote",
+    "author": "Code is taken from Appu's Discord-Selfbot, and modified slightly",
+    "link": "https://raw.githubusercontent.com/GriffinG1/Custom-Cogs/master/anon_quote.py"
+}
