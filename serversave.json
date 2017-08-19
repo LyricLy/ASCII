@@ -1,6 +1,0 @@
-{
-    "title": "ServerSave",
-    "description": "Utilities to save the channels, roles and settings of a server that can be restored later.",
-    "author": "LyricLy",
-    "link": "https://raw.githubusercontent.com/LyricLy/Lyric-Selfbot-Cogs/master/serversave.py"
-}
