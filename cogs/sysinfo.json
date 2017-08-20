@@ -1,0 +1,6 @@
+{
+    "title": "SysInfo",
+    "description": "Uses psutil to display cpu, memory, disk and network information",
+    "author": "kagami#6142",
+    "link": "https://raw.githubusercontent.com/mememe/mycog/master/my_cog.py"
+}
