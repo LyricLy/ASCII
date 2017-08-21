@@ -1,6 +1,6 @@
 {
-    "title": "Custom Assistance",
-    "description": "A custom assistance module intended for use on the Nintendo Homebrew server.",
-    "author": "chenzw95",
-    "link": "https://raw.githubusercontent.com/chenzw95/custom-assistance/master/custom_assistance.py"
+     "title": "Custom Assistance",
+     "description": "A custom assistance module intended for use on the Nintendo Homebrew server.",
+     "author": "chenzw95",
+     "link": "https://raw.githubusercontent.com/chenzw95/custom-assistance/rewrite/custom_assistance.py"
 }

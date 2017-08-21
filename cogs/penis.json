@@ -1,6 +1,7 @@
 {
-    "title": "Penis Size Checker",
-    "description": "Check how big you or your friends are. 100% accurate results. Commands: penis or penis <@user>",
-    "author": "appu1232",
-    "link": "https://gist.githubusercontent.com/appu1232/4d50e2aa3c8005a9a2673cc3b9595a14/raw/f52920b775cb13b8b5be727d825209bc82c90948/penis.py"
+    "title": "Penis",
+    "description": "`>penis` or `>penis @user` to check penis size. 100% accurate results.",
+    "author": "appu1232#2569",
+    "link": "https://gist.githubusercontent.com/appu1232/4d50e2aa3c8005a9a2673cc3b9595a14/raw/9ae009692faf28dd033426ff141d636ab8d16f14/penis.py"
+
 }

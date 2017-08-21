@@ -1,0 +1,6 @@
+{
+  "title": "Git Checkout",
+  "description": "A command to switch between branches of the selfbot. Only use if you know what you're doing!",
+  "author": "25% from LyricLy#5752, 75% from Griffin#2329",
+  "link": "https://raw.githubusercontent.com/GriffinG1/Custom-Cogs/master/git.py"
+}

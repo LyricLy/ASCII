@@ -1,6 +1,0 @@
-{
-    "title": "No traces",
-    "description": "This cog lets you toggle a no-traces mode that will autodelete **all** your messages after a certain amount of time.\nThe command that comes with this cog is\n- `notrace [seconds to delete]` to toggle the notrace mode.\n\n[(Check the Source Code)](https://github.com/Bluscream/Discord-Selfbot-Cogs/blob/master/notraces.py)",
-    "author": "Bluscream#2597",
-    "link": "https://raw.githubusercontent.com/Bluscream/Discord-Selfbot-Cogs/master/notraces.py"
-}

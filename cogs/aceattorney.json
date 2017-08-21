@@ -1,6 +1,6 @@
 {
   "title": "AceAttorney",
-  "description": "A slew of Ace Attorney related commands.",
-  "author": "Griffin#2329 and thatnerddude (thatcommondude#8240)",
+  "description": "Various AceAttorney related commands, do >help AceAttorney to see them!",
+  "author": "Griffin#2329",
   "link": "https://raw.githubusercontent.com/GriffinG1/Custom-Cogs/master/aceattorney.py"
 }
