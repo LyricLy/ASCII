@@ -1,0 +1,6 @@
+{
+	"title": "notforth",
+	"description": "A weird Forth-like set-manipulation language, allowing basic querying of server member sets, along with simple calculation and logic. Very experimental (but probably safe)",
+	"author": "adjnouobsref",
+	"link" : "https://raw.githubusercontent.com/adjnouobsref/NotForth-cog/master/notforth.py"
+}
