@@ -2,5 +2,6 @@
     "title": "cth103's random stuff",
     "description": "A cog with random features like brainfuck, etc. also do >halp",
     "author": "cth103",
-    "link": "https://raw.githubusercontent.com/cthpw103/cogs/master/randomcog.py"
+    "link": "https://raw.githubusercontent.com/cthpw103/cogs/master/randomcog.py",
+    "deps": "pillow"
 }
