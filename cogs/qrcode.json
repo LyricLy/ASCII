@@ -1,0 +1,7 @@
+{
+  "title": "QR Generator",
+  "description": "QR Generator for Appu Selfbot. Usage: `qr` to generate a QR code for the last attachment or `qr <link>` to generate a QR for a specific link",
+  "author": "astronautlevel",
+  "link": "https://raw.githubusercontent.com/astronautlevel2/Discord-Cogs/master/qrgen.py",
+  "dependencies": [ "qrcode" ]
+}
