@@ -1,0 +1,6 @@
+{
+    "title": "Delete All",
+    "description": "A replacement for the delete command that deletes all users' messages in a channel. Need help? DM @Sergey#5402",
+    "author": "Sergey#5402",
+    "link": "https://gist.githubusercontent.com/PixelSergey/97d8dcd7d280fe9b96114c88e5ae4005/raw/64b9ab751e9d130bbba2e836e8ddb19796c81003/deleteall.py"
+}
