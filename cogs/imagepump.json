@@ -1,6 +1,0 @@
-{
-    "title": "imagepump",
-    "description": "Opposite of imagedump: upload images from a directory. Please only use in servers/channels which permit posting such a series of images.",
-    "author": "HarJIT",
-    "link": "http://harjit.moe/discord/cogs/imagepump/imagepump.py"
-}
