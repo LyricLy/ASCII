@@ -3,5 +3,5 @@
     "description": "A simple translator cog that translates every messages you send to your desired language by editing the message you sent. Easy toggle translation mode on/off.",
     "author": "◻ | The Cosmos",
     "link": "https://raw.githubusercontent.com/the-cosmos/discord-selfbot-cogs/master/tc_translator.py",
-    "dependencies": [ "googletrans" ]
+    "dependencies": [ "googletrans==2.2.0" ]
 }
