@@ -1,0 +1,6 @@
+{
+    "title": "Discriminator matcher",
+    "description": "Gives a list of all users with either your discriminator or the one you specify. (Discriminator matching code taken and slightly adapted from the Appu Selfbot discord)",
+    "author": "Ev1l0rd",
+    "link": "https://raw.githubusercontent.com/ev1l0rd/evi-selfbot-cogs/master/discriminator.py"
+}
