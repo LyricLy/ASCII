@@ -1,6 +1,6 @@
 {
   "title": "AceAttorney",
-  "description": "Various AceAttorney related commands, do >help AceAttorney to see them! Need support? You can find a link to the support server [here](https://github.com/GriffinG1/Custom-Cogs/blob/master/README.md)",
+  "description": "Various AceAttorney related commands, do >help AceAttorney to see them!",
   "author": "Griffin#2329",
   "link": "https://raw.githubusercontent.com/GriffinG1/Custom-Cogs/master/aceattorney.py"
 }
