@@ -1,0 +1,6 @@
+{
+  "title": "Server Mute",
+  "description": "Mute pings in specific servers in which pings cannot normally be muted",
+  "author": "astronautlevel2",
+  "link": "https://raw.githubusercontent.com/astronautlevel2/Discord-Cogs/master/server_mute.py"
+}

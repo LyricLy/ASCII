@@ -1,0 +1,9 @@
+{
+    "title": "Translator",
+    "description": "A simple translator cog that translates every messages you send to your desired language by editing the message you sent. Easy toggle translation mode on/off. Note: tc_translator requires googletrans module to translate your messages. If you've deployed selbot on heroku then you've to add 'googletrans==2.2.0' in new line in requirements.txt which you can find in the root folder of selfbot and then you may commit and push it to heroku. For more help, join our discord server: https://discord.gg/9k8uNCM",
+    "author": "◻ | The Cosmos",
+    "link": "https://raw.githubusercontent.com/the-cosmos/discord-selfbot-cogs/master/tc_translator.py",
+    "dependencies": 
+        { "googletrans" : "2.2.0"
+            }
+}

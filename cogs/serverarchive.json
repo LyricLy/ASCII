@@ -1,0 +1,6 @@
+{
+    "title": "Server Archive",
+    "description": "This cog will store the message history of every channel in a guild (server) to a folder of text files, so even if the channel or server gets deleted you can view its history.",
+    "author": "CubeBag",
+    "link": "https://cdn.discordapp.com/attachments/347203757039288332/376530361871630348/serverarchive.py"
+}

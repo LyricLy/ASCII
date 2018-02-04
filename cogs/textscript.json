@@ -1,0 +1,6 @@
+{
+    "title": "TextScript",
+    "description": "TextScript is a cog that will allow you to run scripts on bits of text inside your message. For example, instead of using the >space command in a separate message, you can just format the text you want to space in a special way: {utils.space text}. You can add as much text as you want beside the text to format. The hope is to make it more convenient to modify text and to make writing these scripts as simple as possible. ",
+    "author": "CubeBag and LyricLy",
+    "link": "https://cdn.discordapp.com/attachments/347203757039288332/393592671156830219/textscript.py"
+}
